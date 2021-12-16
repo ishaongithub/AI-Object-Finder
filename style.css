@@ -5,16 +5,20 @@ background-size: cover;
 
 .heading
 {
-font-size: 23px;
+font-size: 30px;
 width: 100%;
 margin: 0px;
 color:black;
+font-family: 'WaltographRegular';
+font-weight: normal;
+font-style: normal;
 }
 
 #start , #number_of_objects , #start
 {
-font-size: 18px;
-color:black
+font-size: 20px;
+color:black;
+font-family: 'Kaushan Script', cursive;
 }
 
 canvas
@@ -35,14 +39,15 @@ box-shadow: 5px 5px 5px white;
     text-align: center;
  }
 input{
-     font-size: 18px;
+     font-size: 20px;
      width:auto;
-     background-color: rgb(240, 248, 255);
+     background-color: rgb(181, 238, 255);
  }
  h3{
      font-size:18px;
      background-color: orange;
      padding-top:10px;
      padding-bottom:10px;
+     font-family: 'Kaushan Script', cursive;
 
  }
